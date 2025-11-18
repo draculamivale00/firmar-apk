@@ -1,0 +1,11 @@
+keyring
+altgraph
+packaging
+pefile
+pyinstaller-hooks-contrib
+pywin32-ctypes
+setuptools
+jaraco.classes
+jaraco.functools
+jaraco.context
+more-itertools
